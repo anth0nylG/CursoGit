@@ -1,3 +1,3 @@
 function name(params) {
-    console.log("Bye!");
+    console.log("Hola mundo!");
 }
